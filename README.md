@@ -1,6 +1,7 @@
 # hello-world
 Just Another repository
-Daily Driver Laptop Toshiba R930 i5 3320M 
+Daily Driver Laptop 
+Toshiba R930 i5 3320M 
 HD1 480GB PNY SSD 
 HD2 1TB Seagare 5400rpm 
 Ram 12 Gb OS (triple-boot) Manjaro Arco-Linux Windows 10 Pro 
