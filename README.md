@@ -1,6 +1,8 @@
 # hello-world
 Just Another repository
+
 Daily Driver Laptop 
+
 Toshiba R930 i5 3320M 
 HD1 480GB PNY SSD 
 HD2 1TB Seagare 5400rpm 
